@@ -1,0 +1,43 @@
+body{
+
+	background-color: white;
+}
+
+.accordion-title{
+
+font-family: Courier New;
+font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: blue;
+
+}
+.calas{
+
+display: block;
+ 
+    margin-left: auto;
+    margin-right: auto;
+	height: 800px;
+	width: 800px;
+	
+}
+
+.thumbnail{
+display: block;
+ 
+    margin-left: auto;
+    margin-right: auto;
+height: 300px;
+	width: 300px;
+
+}
+
+.menu {
+
+
+	color: blue;
+}
+
